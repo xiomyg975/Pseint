@@ -1,0 +1,16 @@
+Algoritmo vida
+	Escribir "Ingrese el año de nacimiento "
+	Leer anio
+	Escribir "Ingrese el mes de nacimiento "
+	Leer mes
+	Escribir "Ingrese el dia de nacimiento "
+	Leer dia
+	Escribir "Ingrese la hora de nacimiento "
+	Leer hora
+	aniototal <- 2020-anio
+	anio <- 365-1
+	
+	Escribir aniototal
+	
+	
+FinAlgoritmo
